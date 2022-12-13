@@ -90,7 +90,7 @@ body {
 }
 
 
-.mapaiframe iframe {
+.mapa-api {
     width: 100%;
     height: 96%;
     position: fixed;
